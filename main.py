@@ -28,6 +28,7 @@ def main():
             num_string = input("Enter a password to decode: ")
             print(f"Original password: {num_string}")
             # print(f"Decoded password: {decode(num_string)}")
+            print("hi")
 
 
 if __name__ == "__main__":
